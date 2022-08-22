@@ -8,3 +8,8 @@ public class Main {
         }
     }
 }
+
+class Person{
+    private int id;
+    private String name;
+}
