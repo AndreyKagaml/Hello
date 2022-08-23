@@ -13,5 +13,6 @@ public class Main {
         List<Integer> list = new ArrayList<>();
         list.add(89);
         list.add(90);
+        System.out.println(list);
     }
 }
