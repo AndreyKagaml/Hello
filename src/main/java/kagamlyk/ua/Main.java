@@ -10,9 +10,9 @@ public class Main {
             System.out.println("Hello Ukraine");
         }
 
-        List<Integer> list = new ArrayList<>();
-        list.add(89);
-        list.add(90);
-        System.out.println(list);
+        Map<Integer, String> map = new HashMap<>();
+        map.put(1,"Andrey");
+        map.put(2,"Max");
+
     }
 }
